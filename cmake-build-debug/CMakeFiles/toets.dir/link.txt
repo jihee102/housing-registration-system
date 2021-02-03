@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\toets.dir/objects.a
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\toets.dir/objects.a @CMakeFiles\toets.dir\objects1.rsp
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  -Wall -D_GLIBCXX_DEBUG -g   -Wl,--whole-archive CMakeFiles\toets.dir/objects.a -Wl,--no-whole-archive  -o toets.exe -Wl,--out-implib,libtoets.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\toets.dir\linklibs.rsp
