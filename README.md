@@ -25,6 +25,12 @@ This street has 17 residents.
         b) is where Wit lives with 2 persons
         c) is where Janssen lives with 4 persons
 ```
+---
 
 ## Contributor
 Jihee Hong, <jihee102@gmail.com>
+
+---
+## License & copyright
+© Jihee Hong
+Licensed under the [MIT License](LISENCE)
